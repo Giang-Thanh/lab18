@@ -1,0 +1,19 @@
+.bg-img1 {
+  width: 100%;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://st.depositphotos.com/2627021/3210/i/450/depositphotos_32109269-stock-photo-moon-and-clouds-in-the.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://st.depositphotos.com/2627021/3210/i/450/depositphotos_32109269-stock-photo-moon-and-clouds-in-the.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://st.depositphotos.com/2627021/3210/i/450/depositphotos_32109269-stock-photo-moon-and-clouds-in-the.jpg);
+}
+.carousel-item {
+  height: 500px;
+}
